@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](https://throwable-blog-1256189093.cos.ap-guangzhou.myqcloud.com/202009/_media/icon.svg)
+![logo](_media/icon.svg)
 
 # docsify <small>3.5</small>
 
@@ -11,4 +11,4 @@
 - 众多主题
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[文档](https://docsify.js.org/)
